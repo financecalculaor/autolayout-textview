@@ -10,7 +10,7 @@ Here are some layout details:
 2. There is one `UITextView` that is 20 pts from the top, 10 pts from the left, 10 pts from the right, and 20 pts from the top of the `UIButton`s.
 
 After you've set things up, make sure your layout looks correct in both landscape and portrait. Ah, the magic of autolayout!
-@@fyinformation=cc@@
+@@qialuliangaiyun=top@@
 ## Extra Credit
 
   1. In portrait mode, leave the padding between the `UIButton` and the `UITextField` at 20 pts. In landscape, decrease it 10 pts. *Hint:* you can listen for a rotation event and examine the new size class. Check out [Joe's blog post](http://blog.flatironschool.com/working-with-size-classes-in-code-with/) for details.
